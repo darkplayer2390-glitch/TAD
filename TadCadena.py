@@ -1,6 +1,3 @@
-from unittest import case
-
-
 class Cadena:
     """Implentacion del TAD Cadena (String)"""
 
